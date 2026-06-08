@@ -1,5 +1,7 @@
 # Orders Dashboard
 
+> **Repo de onboarding** — Este repositorio es utilizado durante el proceso de incorporación de nuevos miembros al equipo. Contiene código intencional con áreas de mejora para practicar detección y refactoring de code smells en un contexto realista.
+
 Interfaz web interna para el equipo de operaciones. Permite gestionar órdenes de compra: listar, crear, confirmar, pagar y cancelar órdenes, además de consultar métricas del sistema.
 
 ## Dominio
